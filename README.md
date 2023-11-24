@@ -1,3 +1,3 @@
 # assignment
 
-Astrologer Application.
+Astrotalk Job Assignment
